@@ -3,4 +3,5 @@ debug
 *.sublime-workspace
 *.sublime-project
 **/package.xml
+**/*.xml
 
