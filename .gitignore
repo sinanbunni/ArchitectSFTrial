@@ -1,0 +1,6 @@
+config
+debug
+*.sublime-workspace
+*.sublime-project
+**/package.xml
+
