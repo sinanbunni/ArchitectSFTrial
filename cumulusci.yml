@@ -1,0 +1,5 @@
+project:
+    name: ArchitectTrailRepo
+    package:
+        name: ArchitectTrial Repo
+        namespace: archi
